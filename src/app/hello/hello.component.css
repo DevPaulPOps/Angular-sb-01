@@ -1,0 +1,30 @@
+/* Color Theme Swatches in Hex */
+.Illustration-1-hex {
+  color: #021859;
+}
+.Illustration-2-hex {
+  color: #013a40;
+}
+.Illustration-3-hex {
+  color: #025959;
+}
+.Illustration-4-hex {
+  color: #f2e750;
+}
+.Illustration-5-hex {
+  color: #f2c84b;
+}
+
+body {
+  background-color: #021859;
+}
+
+.hello-text {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding: 300px 0;
+  font-size: 100px;
+  font-family: "Roboto", sans-serif;
+  color: #f2e750;
+}

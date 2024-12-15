@@ -1,0 +1,15 @@
+<body>
+  <body>
+    <main>
+      <div class="hello-text">
+        <span>Hello, </span>
+        <span
+          #editableContent
+          contenteditable="true"
+          (blur)="onFirstNameChange()"
+          >{{ firstName }}</span
+        >
+      </div>
+    </main>
+  </body>
+</body>

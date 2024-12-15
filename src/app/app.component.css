@@ -1,0 +1,12 @@
+h1 {
+    color: #df1c1c; 
+    font-size: 400%; 
+    font-weight: bold; 
+    text-align: center; 
+    text-transform: uppercase; 
+    padding: 25%; 
+    background-color: #f2f2f2; 
+    border: 1% solid #ccc; 
+    border-radius: 10%; 
+    box-shadow: 2% 2% 4% rgba(0, 0, 0, 0.1); 
+  }
